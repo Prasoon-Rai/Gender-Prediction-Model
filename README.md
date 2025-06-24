@@ -24,3 +24,5 @@ The model is a fully connected feed-forward neural network trained to classify g
 
 ### Output:
 - Male / Female
+
+ #### NOTE: The model is built with sole purpose of demonstration. Height and Weight can't be used to determine a person's gender, as there are more than two factors involved in determining one's gender. 
