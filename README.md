@@ -23,6 +23,4 @@ The model is a fully connected feed-forward neural network trained to classify g
 - Weight (in pounds)
 
 ### Output:
-- Probability score mapped to binary class (0 or 1)
-
-## 📁 Repository Structure
+- Male / Female
