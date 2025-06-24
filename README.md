@@ -15,8 +15,8 @@ This repository contains a deep learning model that predicts gender based on a p
 ## 🧠 Model Overview
 
 The model is a fully connected feed-forward neural network trained to classify gender as either:
-- **0**: Female
-- **1**: Male
+- Female
+- Male
 
 ### Input:
 - Height (in inches)
